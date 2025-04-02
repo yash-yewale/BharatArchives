@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Chhatrapati Shivaji Maharaj NFT",
+        "description": "An exclusive digital artwork of Chhatrapati Shivaji Maharaj, the founder of the Maratha Empire.",
+        "image_url": "/assets/nft1.jpg",
+        "category": "Kings",
+        "price": 500.0
+    },
+    {
+        "name": "Maharana Pratap NFT",
+        "description": "A tribute to Maharana Pratap, the Rajput warrior known for his valiant resistance against the Mughals.",
+        "image_url": "maharana_pratap.jpg",
+        "category": "Kings",
+        "price": 550.0
+    },
+    {
+        "name": "Ashoka the Great NFT",
+        "description": "A historic NFT representing Emperor Ashoka, one of India's greatest rulers and a promoter of Buddhism.",
+        "image_url": "ashoka.jpg",
+        "category": "Kings",
+        "price": 600.0
+    },
+    {
+        "name": "Raja Raja Chola NFT",
+        "description": "A digital artwork of Raja Raja Chola, the great Chola emperor who expanded the Chola dynasty and built the Brihadeeswarar Temple.",
+        "image_url": "raja_raja_chola.jpg",
+        "category": "Kings",
+        "price": 580.0
+    },
+    {
+        "name": "Krishnadevaraya NFT",
+        "description": "An NFT honoring Krishnadevaraya, the Vijayanagara Empire’s most celebrated king.",
+        "image_url": "krishnadevaraya.jpg",
+        "category": "Kings",
+        "price": 570.0
+    },
+    {
+        "name": "Battle of Panipat NFT",
+        "description": "An intense visual representation of the Third Battle of Panipat, one of the largest fought in Indian history.",
+        "image_url": "panipat.jpg",
+        "category": "Wars",
+        "price": 750.0
+    },
+    {
+        "name": "Battle of Haldighati NFT",
+        "description": "An NFT depicting the famous Battle of Haldighati, fought between Maharana Pratap and the Mughal forces.",
+        "image_url": "haldighati.jpg",
+        "category": "Wars",
+        "price": 720.0
+    },
+    {
+        "name": "Battle of Plassey NFT",
+        "description": "A digital artwork portraying the historic Battle of Plassey, which marked the beginning of British rule in India.",
+        "image_url": "plassey.jpg",
+        "category": "Wars",
+        "price": 690.0
+    },
+    {
+        "name": "Battle of Buxar NFT",
+        "description": "An NFT capturing the Battle of Buxar, a decisive battle that consolidated British power in India.",
+        "image_url": "buxar.jpg",
+        "category": "Wars",
+        "price": 710.0
+    },
+    {
+        "name": "Kargil War NFT",
+        "description": "A tribute to the heroes of the Kargil War, depicting the brave soldiers who fought for India's sovereignty.",
+        "image_url": "kargil.jpg",
+        "category": "Wars",
+        "price": 800.0
+    }
+]
